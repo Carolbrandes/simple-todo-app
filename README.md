@@ -1,3 +1,7 @@
+## Please describe (in any form you like - document, words, pseudo-code, slides, whatever) what you think should be the most important features to add to this app in the process of building a group todo app
+
+The most important feature is the assignee of todo.
+
 ## React Tutorial – The Beginners Guide to Learning React JS in 2020
 
 [To follow this React tutorial](https://ibaslogic.com/blog/react-tutorial-for-beginners/)
